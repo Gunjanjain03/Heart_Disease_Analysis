@@ -1,4 +1,4 @@
-# Heart_Disease_Analysis
+# Heart_Disease_prediction
 Heart Disease Prediction Web App
 This project is a machine learning-based web application that predicts whether a person has heart
 disease based on their medical attributes. It uses Logistic Regression for prediction and is built with
