@@ -8,13 +8,13 @@ Project Features
 - Preprocessing includes handling duplicates
 - Model: Logistic Regression (trained using scikit-learn)
 - Accuracy:
- - Training: ~85%
- - Testing: ~80%
+ --- Training: ~85%
+ --- Testing: ~80%
 - Flask API endpoints:
- - POST /predict Accepts patient data and returns prediction
- - GET /accuracy Returns model accuracy
- - GET / Basic status check of the AP
- - Tech Stack
+ --- POST /predict Accepts patient data and returns prediction
+ --- GET /accuracy Returns model accuracy
+ --- GET / Basic status check of the AP
+ --- Tech Stack
 - Python
 - Flask
 - NumPy, Pandas, scikit-learn
